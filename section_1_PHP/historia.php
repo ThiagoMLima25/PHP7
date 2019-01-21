@@ -19,5 +19,6 @@
 	 */
 
 	echo "Meu primeiro código PHP! <strong> Olá Mundo :)</strong>";
-	echo "Olá Udemy";
+	echo "Olá Udemy e HCode";
+
  ?>
